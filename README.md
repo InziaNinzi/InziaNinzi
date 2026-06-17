@@ -7,7 +7,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33; line-height: 1.7;"> 
         🚀 <b>Backend Engineer</b> focused on building scalable, efficient, and robust server architectures using <b>Node.js</b> and <b>Spring Boot</b>. <br>
         📈 Deeply interested in <b>Data Analysis, Quant Investing,</b> and engineering algorithmic trading systems. <br>
-        🛹 Outside of coding, I dynamic-route my energy into <b>board sports</b> and <b>electronic music production/DJing</b>.
+        🛹 Outside of coding, I dynamic-route my energy into <b>board sports</b> and <b>electronic music DJing</b>.
     </div> 
 </div>
 
