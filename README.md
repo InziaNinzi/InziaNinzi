@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e838ff,100:1c0b6f&height=180&text=Inzia's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi, I'm Hyunsu Kim </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요, 김현수입니다. </div> 
     </div>
     <div style="text-align: left;">
