@@ -10,7 +10,7 @@
 - 📈 **Data & Quant** — 데이터 분석, 퀀트 리서치, 알고리즘 트레이딩 시스템을 공부하고 있습니다.
 - 🌱 동아리·커뮤니티의 실제 문제(장비 대여, 인수인계 등)를 코드로 해결하는 것을 좋아합니다.
 
-🌐 **Portfolio** → https://inzianinzi.github.io/portfolio/
+🌐 **Portfolio** → https://inzianinzi.github.io
 
 ---
 
@@ -76,4 +76,4 @@
 
 <a href="mailto:kimhyunsu1000@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/inzia_ninzi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
-<a href="https://inzianinzi.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1c0b6f?style=flat-square&logo=GitHubPages&logoColor=white"></a>
+<a href="https://inzianinzi.github.io"><img src="https://img.shields.io/badge/Portfolio-1c0b6f?style=flat-square&logo=GitHubPages&logoColor=white"></a>
