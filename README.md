@@ -50,7 +50,6 @@
 | **Rental API** | 대학 스노보드 연합 시즌 장비 렌탈 관리 백엔드 | Cloudflare Workers · Hono · Zod · Supabase |
 | **LearningLM (UMC)** | UMC 프로젝트 LearningLM 백엔드, 도메인 기반 아키텍처 | Java 17 · Spring Boot |
 | **energy-infra-leadlag** | 에너지 인프라 밸류체인(원자재→유틸리티→전력기기) 시차 트레이딩 리서치 | Python · pandas · yfinance |
-| [**AiRo-Pass**](https://github.com/InziaNinzi/AiRo-Pass) | 보드동아리 비품 통합 대여관리 시스템 | — |
 | [**talk-flow-parser**](https://github.com/InziaNinzi/talk-flow-parser) | 카카오톡 대화 데이터를 인수인계용 Markdown 문서로 변환 | Python |
 | [**hufs-worldcup-2026**](https://github.com/InziaNinzi/hufs-worldcup-2026) | 2026 북중미 월드컵 테마 1:1 헤드사커 게임 | Python · Pygame |
 
